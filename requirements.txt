@@ -1,0 +1,39 @@
+# Base packages
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
+
+# Streamlit
+streamlit
+plotly
+
+# AWS SDK
+boto3
+sagemaker
+
+# NLP & GenAI
+openai
+langchain
+pydantic
+
+# FastAPI for backend
+fastapi
+uvicorn
+
+# Audio + Accessibility
+SpeechRecognition
+python-dotenv
+gTTS
+
+# Others
+requests
+
+torch
+
+
+pandas
+pyyaml
