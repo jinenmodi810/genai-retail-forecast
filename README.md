@@ -50,7 +50,7 @@ To use or extend this project, you will need:
 - IAM roles for access to S3, Glue, Athena, Lambda, and RDS
 
 ## 🗂️ Project Structure
-
+```bash
 ├── inference/ # ML inference scripts (XGBoost, TimeLLM)
 ├── models/ # Model definitions (no weights)
 ├── streamlit_app/ # Streamlit frontend UI
@@ -59,8 +59,8 @@ To use or extend this project, you will need:
 ├── data_specs/ # Sample schema and formats
 ├── requirements.txt
 └── README.md
-
-
+```
+###
 ## ⚙️ Setup Instructions
 
 ### 1. Clone and Install
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 streamlit run streamlit_app/Home.py
 
 ⚠️ Local version will not show actual forecasts unless connected to AWS endpoints.
-
+```
 
 ☁️ AWS Deployment (Overview)
 Frontend (Elastic Beanstalk)
