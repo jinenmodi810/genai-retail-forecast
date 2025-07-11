@@ -77,6 +77,7 @@ streamlit run streamlit_app/Home.py
 ```
 
 ☁️ AWS Deployment (Overview)
+```
 Frontend (Elastic Beanstalk)
 Package Streamlit app (application.py, requirements.txt)
 
@@ -105,8 +106,9 @@ Real-time data engineering and prediction pipeline
 Multi-model comparison (GenAI vs traditional ML)
 
 Clean AWS deployment architecture for enterprise use
-
+```
 🧪 Next Steps
+```
 Fine-tune TimeLLM on domain-specific time series
 
 Add real-time alerts and inventory signals
@@ -114,7 +116,7 @@ Add real-time alerts and inventory signals
 Integrate user feedback loops for continuous model improvement
 
 Publish reusable deployment templates (CloudFormation / CDK)
-
+```
 
 Author
 Jinen Modi
