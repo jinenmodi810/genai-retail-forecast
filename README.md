@@ -21,7 +21,7 @@ A full-stack, cloud-native forecasting system designed to optimize retail supply
 |------------------|------------------------------------------------------------------------------|
 | Data Engineering | AWS Glue, Amazon S3, Athena, Parquet, PyArrow                                |
 | ML Models        | XGBoost (by store_type), TimeLLM (GPT2-based custom model)                  |
-| Cloud & Compute  | SageMaker, Lambda, Elastic Beanstalk, RDS, IAM, CloudWatch, Macie           |
+| Cloud & Compute  | SageMaker, Lambda, Elastic Beanstalk, RDS, IAM           |
 | Frontend         | Streamlit (voice-enabled), Bedrock (for explainability), FastAPI (backend)  |
 | Languages        | Python, SQL                                                                  |
 
