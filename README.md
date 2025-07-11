@@ -35,7 +35,9 @@ Retail companies face high costs due to inaccurate forecasting. This solution de
 
 ## 📐 Architecture Overview
 
-![alt text](architecture.png)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5a69db66-7101-4b06-bea5-b19453e04f0a" />
+
+
 
 
 ## 🔒 Model Access & AWS Dependency
